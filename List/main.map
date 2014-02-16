@@ -1,0 +1,21 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+fnd_list                                                          0x00E0      10
+fnd_led                                                           0x00EA      20
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+h                                                                 R5           1
+m                                                                 R4           1
+s                                                                 R7           1
+weekday                                                           R6           1
+day                                                               R9           1
+month                                                             R8           1
+year                                                              R11          1
+mode                                                              R12,R13      2
