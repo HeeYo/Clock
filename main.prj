@@ -6,7 +6,7 @@ A=BeenGone
 C=
 D=2014-02-15 ¿ÀÀü 2:02:43
 Files=1
-OpenedFiles=0
+OpenedFiles=1
 OutputListFilesDirectory=List
 OutputObjectFilesDirectory=Obj
 OutputExecutableFilesDirectory=Exe
@@ -16,13 +16,13 @@ CleanUp=2
 F1=main.c
 EditorPanelMode=0
 ActiveEditorPanel=0
-Active0=1
+Active0=0
 EditorPanel0=0
 PageIndex0=0
 OF1=main.c
 Active1=1
 EditorPanel1=0
-TimeStamp1=1146159795
+TimeStamp1=1146065005
 PageIndex1=1
 [Compiler]
 RebuildAll=0
@@ -300,7 +300,7 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1146207100
+TimeStamp=1146127384
 [Bookmarks2]
 TimeStamp=1146043020
 Row=85
@@ -320,9 +320,9 @@ BK9=-1
 [FoldedCode2]
 Blocks=0
 [Bookmarks3]
-TimeStamp=1146159795
-Row=0
-Column=0
+TimeStamp=1146065005
+Row=86
+Column=51
 ScrollPosX=0
 ScrollPosY=0
 BK0=-1
